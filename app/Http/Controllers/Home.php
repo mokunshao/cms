@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-use App\Todo;
+use App\Models\Todo;
 
 class Home extends Controller
 {
