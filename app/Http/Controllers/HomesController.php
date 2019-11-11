@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Models\Todo;
 
-class Home extends Controller
+class HomesController extends Controller
 {
     public function index(Todo $todo)
     {
